@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'Forza-Medium';
+	src: url('Forza-Medium.eot?') format('eot'), 
+	     url('Forza-Medium.otf')  format('opentype'),
+	     url('Forza-Medium.woff') format('woff'), 
+	     url('Forza-Medium.ttf')  format('truetype'),
+	     url('Forza-Medium.svg#Forza-Medium') format('svg');
+}
